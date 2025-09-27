@@ -1,4 +1,4 @@
-# 📈 ABC Call Volume Trend Analysis: Optimizing Contact Center Efficiency
+# 📈 ABC Call Volume Trend Analysis: Optimizing Call Center Efficiency
 
 ## 📌 Project Overview
 This project, developed as part of the **Trainity Internship**, delivers an in-depth **Call Volume Trend Analysis** for the ABC Call Center.  
